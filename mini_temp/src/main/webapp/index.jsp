@@ -7,6 +7,6 @@
 <title>인덱스페이지</title>
 </head>
 <body>
-	
+
 </body>
 </html>
