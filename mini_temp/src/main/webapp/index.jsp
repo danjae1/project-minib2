@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>인덱스페이지1</title>
+<title>인덱스페이지123</title>
 </head>
 <body>
 	
