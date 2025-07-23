@@ -7,6 +7,6 @@
 <title>/user/login.jsp</title>
 </head>
 <body>
-
+ <h1>깔깔깔</h1>
 </body>
 </html>
